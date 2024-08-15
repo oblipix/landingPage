@@ -27,9 +27,9 @@ https://github.com/user-attachments/assets/bfd6a77b-aa9b-4cfe-b9e8-c828887a4a15
 >
 > Uma conta no GitHub (opcional, mas recomendado).
 >
->  📌 Instale >> packages json (Instale dependencias)
+>  📌 Instale packages json (Instale dependencias)
 > 
->  📌 Instale >>  react-router-dom
+>  📌 Instale react-router-dom
 
 
 **Vamos clonar este repositório passo a passo.**
