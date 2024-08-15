@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+     justify-content: space-between;
+    padding: 20px;
+    background-color: #072213;
+    color: white;
+    font-family: "Rajdhani", sans-serif;
+  }
+  
+  .header .logo {
+    font-size: 1.5rem;
+  }
+  
+  .header nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  .header nav ul li {
+    margin: 0 15px;
+    
+  }
+  
+  .header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  

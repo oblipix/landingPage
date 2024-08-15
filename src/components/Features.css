@@ -1,0 +1,49 @@
+.features {
+  padding: 150px 20px;
+  background-color: #819c86;
+}
+
+h2 {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+  font-style: normal;
+}
+
+h4 {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  font-style: normal;
+}
+
+.feature-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.feature-item {
+  max-width: 300px;
+  text-align: center;
+  font-family: "Rajdhani", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.feature-item h3 {
+  margin-bottom: 10px;
+  color: #072213;
+  font-size: 18px;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.feature-item p {
+  color: #072213;
+  font-family: "Rajdhani", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+}
