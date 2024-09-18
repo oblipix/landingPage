@@ -30,7 +30,8 @@ https://github.com/user-attachments/assets/bfd6a77b-aa9b-4cfe-b9e8-c828887a4a15
 >  📌 Instale packages json (Instale dependencias)
 > 
 >  📌 Instale react-router-dom
-
+> 
+> Faça um Fork do repositório, assim nada será alterado do repositório original.
 
 **Vamos clonar este repositório passo a passo.**
 
