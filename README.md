@@ -88,9 +88,9 @@ navegue até a pasta onde deseja clonar.
 
 **Clone o repositório:**
 
-
-```git clone https://github.com/oblipix/landingPage.git ``` 
-
+```dif
+git clone https://github.com/oblipix/landingPage.git ``` 
+```
 
 <sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
 
