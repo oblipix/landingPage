@@ -56,6 +56,7 @@ O landingPage é uma aplicação web desenvolvida exclusivamente com React, proj
 > 
 >
 > 📌 Instale packages json (Instale dependencias)
+> 
 > 📌 Instale react-router-dom
 >
 >   <img src="https://img.icons8.com/ios/50/000000/code-fork.png" alt="Fork Icon" width="20"/>  Faça um Fork do repositório, assim nada será alterado do repositório original.
