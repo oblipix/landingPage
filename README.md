@@ -45,8 +45,10 @@ O landingPage é uma aplicação web desenvolvida exclusivamente com React, proj
 ## Como Clonar este Repositório
 
 
-> [!IMPORTANT]
-> ### Pré-requisitos:
+
+ ### Pré-requisitos:
+
+>  [!IMPORTANT]
 >  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20"/> Ter o Git instalado no seu computador. Se ainda não tiver, baixe e instale o Git.
 >
 > 
@@ -67,34 +69,30 @@ O landingPage é uma aplicação web desenvolvida exclusivamente com React, proj
 >
 >
 >
->  ### Vamos clonar este repositório passo a passo. 
->
-> 
->
->_Obtenha a URL do repositório:_
->
->`https://github.com/oblipix/landingPage.git`
->
->
->
->
->navegue até a pasta onde deseja clonar.
->
->
->**Clone o repositório:**
->
->`git clone https://github.com/oblipix/landingPage.git`
->
->
-><sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
->
 
 
 
 
 
+ ### Vamos clonar este repositório passo a passo. 
 
 
+
+_Obtenha a URL do repositório:_
+
+```https://github.com/oblipix/landingPage.git```
+
+
+navegue até a pasta onde deseja clonar.
+
+
+**Clone o repositório:**
+
+
+```git clone https://github.com/oblipix/landingPage.git ``` 
+
+
+<sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
 
 
 
