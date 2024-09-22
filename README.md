@@ -12,14 +12,6 @@ https://github.com/user-attachments/assets/bfd6a77b-aa9b-4cfe-b9e8-c828887a4a15
 
 
 
-# 🔊
-
-
-
-
-
-https://github.com/user-attachments/assets/da724c91-08c3-4567-be33-8c4783ed6d09
-
 
 
 
